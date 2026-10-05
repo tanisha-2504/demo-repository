@@ -1,4 +1,4 @@
-## OUTPUT OF 1.PY 
+## OUTPUT OF project 1 
 ```text
 welcome to the interactive personal data collector!  please enter your name : tanisha 
 please enter your age : 21
