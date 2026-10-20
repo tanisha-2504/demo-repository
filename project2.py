@@ -15,20 +15,20 @@ while(True):
         startnum = int(input("enter the start of the range: "))
         endnum = int(input("enter the end of the range: "))
         sum=0
-        for i in range(startnum,endnum):
-            sum=+i
+        for i in range(startnum,endnum+1):
+            sum=sum+i
             if i%2==0 :
-                print(f"number{i} is Even")
+                print(f"number {i} is Even")
             else:
-                print(f"number{i} is odd")        
-        print(f"sum of all numbers from {startnum} to {endnum} is : ")        
+                print(f"number {i} is odd")        
+        print(f"sum of all numbers from {startnum} to {endnum} is : {sum} ")        
         print()  
     elif (userinput==3):
         print("Exiting the program. Goodbye!")    
         break
     else:
         print("invalid choice")    
-
+print("out of loop")
 
 
 
