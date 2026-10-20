@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 ## OUTPUT OF project 1 
 ```text
 welcome to the interactive personal data collector!  please enter your name : tanisha 
@@ -13,6 +11,3 @@ Height: 1.68 (Type: <class 'float'> , Memory Address: 1689535360112 )
 Fav Number: 8 (Type: <class 'int'> , Memory Address: 140725801978520 )
 your birth year is approximately :  2005 (based on your age of 21 )
 Thank you for using the Personal Data Collector. Goodbye!
-
-
->>>>>>> e459ad066fa7a77bcbc28d68eba628cfb756144e
