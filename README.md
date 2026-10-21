@@ -11,3 +11,4 @@ Height: 1.68 (Type: <class 'float'> , Memory Address: 1689535360112 )
 Fav Number: 8 (Type: <class 'int'> , Memory Address: 140725801978520 )
 your birth year is approximately :  2005 (based on your age of 21 )
 Thank you for using the Personal Data Collector. Goodbye!
+
